@@ -10,7 +10,7 @@ The new Smart Contract Generator for BEP20 Token.
 
 [https://vittominacori.github.io/bep20-generator](https://vittominacori.github.io/bep20-generator)
 
-Forked by (https://skrots.com)
+Forked by (<a href="https://skrots.com" rel="follow" >https://skrots.com </a>)
 
 
 ## Development
